@@ -10,6 +10,11 @@ module Android
         USB.reset(serial_no)
       end
 
+      desc "reset_by <by> <value>", "reconnect android device"
+      def reset_by(by, value)
+        USB.reset_by(by, value)
+      end
+
       desc "devices", "list all usb devices"
       def devices
         USB.devices
