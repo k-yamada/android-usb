@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'android/usb'
+
+Android::USB::CLI.start
