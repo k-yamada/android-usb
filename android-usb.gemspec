@@ -5,7 +5,7 @@ require 'android/usb/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "android-usb"
-  spec.version       = Android::Usb::VERSION
+  spec.version       = Android::USB::VERSION
   spec.authors       = ["k-yamada"]
   spec.email         = ["yamadakazu45@gmail.com"]
   spec.description   = %q{android-usb}

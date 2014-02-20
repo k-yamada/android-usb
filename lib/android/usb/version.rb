@@ -1,5 +1,5 @@
 module Android
-  module Usb
+  module USB
     VERSION = "0.0.1"
   end
 end

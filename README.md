@@ -1,4 +1,4 @@
-# Android::Usb
+# Android::USB
 
 TODO: Write a gem description
 
